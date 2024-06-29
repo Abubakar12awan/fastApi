@@ -1,0 +1,8 @@
+fastapi==0.68.2
+uvicorn==0.15.0
+opencv-python==4.5.4.60
+mediapipe==0.8.7.3
+rembg==1.0.27
+Pillow==8.4.0
+torch==1.10.0
+torchvision==0.11.1
